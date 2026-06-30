@@ -425,11 +425,15 @@ If you found this project helpful or inspiring, consider giving it a ⭐ on GitH
 
 ---
 
-# 📜 License
+# 📌 Project Usage
 
-This project is licensed under the **MIT License**.
+This project was developed as part of my Power BI portfolio to demonstrate business intelligence, data visualization, and analytics skills.
 
-Feel free to use this project for learning and educational purposes.
+The repository is intended for learning, reference, and portfolio purposes only.
+
+If you'd like to use this project, the Power BI report (.pbix), or any part of the solution, please contact me before redistributing or publishing it.
+
+📧 **Email:** **afzalmysss321@gmail.com**
 
 ---
 
